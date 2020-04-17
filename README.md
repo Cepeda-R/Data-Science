@@ -8,3 +8,5 @@ BasketBall Throws throughout time. Simple descriptive analysis using NUMPY, PAND
 Titanic Machine Learning Project: Classification Algorithm
 
 World Trends Dataset. Simple descriptive analysis using the main packages from python (NUMPY, PANDAS MATPLOTLIB)
+
+Iris Machine Learning Project: SVM Kernel = linear + Decision Trees + Logistic Regression
