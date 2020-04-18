@@ -10,3 +10,5 @@ Titanic Machine Learning Project: Classification Algorithm
 World Trends Dataset. Simple descriptive analysis using the main packages from python (NUMPY, PANDAS MATPLOTLIB)
 
 Iris Machine Learning Project: SVM Kernel = linear + Decision Trees + Logistic Regression
+
+Finances Analysis. Data Analysis and simple Feature Engineering
