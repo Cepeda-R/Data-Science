@@ -12,3 +12,5 @@ World Trends Dataset. Descriptive analysis using the main packages from python (
 Iris Machine Learning Project: SVM Kernel = linear + Decision Trees + Logistic Regression
 
 Finances Analysis. Data Analysis and Feature Engineering with lists using loops.
+
+Area Find Coordinates. Create a method to find the area of a damaged component in a PCB using Shapely.Geometry Package
