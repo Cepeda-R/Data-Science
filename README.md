@@ -14,3 +14,5 @@ Iris Machine Learning Project: SVM Kernel = linear + Decision Trees + Logistic R
 Finances Analysis. Data Analysis and Feature Engineering with lists using loops.
 
 Area Find Coordinates. Create a method to find the area of a damaged component in a PCB using Shapely.Geometry Package
+
+Pokemon stats data analysis. Drescriptive statistics on Pokemon Dataset regarding Speed, Atack, Defense, Sp. Defense, Sp. Attack
