@@ -16,3 +16,5 @@ Finances Analysis. Data Analysis and Feature Engineering with lists using loops.
 Area Find Coordinates. Create a method to find the area of a damaged component in a PCB using Shapely.Geometry Package
 
 Pokemon stats data analysis. Drescriptive statistics on Pokemon Dataset regarding Speed, Atack, Defense, Sp. Defense, Sp. Attack
+
+WW2 Weather Machine Learning Project: Predict Min.Temp. using Linear Regression CVS + RMSE and Robust Scaler
