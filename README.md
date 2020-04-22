@@ -18,3 +18,5 @@ Area Find Coordinates. Create a method to find the area of a damaged component i
 Pokemon stats data analysis. Drescriptive statistics on Pokemon Dataset regarding Speed, Atack, Defense, Sp. Defense, Sp. Attack
 
 WW2 Weather Machine Learning Project: Predict Min.Temp. using Linear Regression CVS + RMSE and Robust Scaler
+
+ICT Blocks Analysis. Descriptive analysis and statistics regarding test system blocking in manufacturing
