@@ -20,3 +20,5 @@ Pokemon stats data analysis. Drescriptive statistics on Pokemon Dataset regardin
 WW2 Weather Machine Learning Project: Predict Min.Temp. using Linear Regression CVS + RMSE and Robust Scaler
 
 ICT Blocks Analysis. Descriptive analysis and statistics regarding test system blocking in manufacturing
+
+Pedidos de Ajuda ICT. Descriptive analysis and statistics regarding test system aid in manufacturing
