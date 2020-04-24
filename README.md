@@ -22,3 +22,5 @@ WW2 Weather Machine Learning Project: Predict Min.Temp. using Linear Regression 
 ICT Blocks Analysis. Descriptive analysis and statistics regarding test system blocking in manufacturing
 
 Pedidos de Ajuda ICT. Descriptive analysis and statistics regarding test system aid in manufacturing
+
+FishML Project. Linear Regression and Gradient Descent + Data Scaling and Normalization + Predicting new inputs
