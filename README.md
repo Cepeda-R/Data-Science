@@ -1,28 +1,43 @@
 # Data-Science
-All my projects related to Data Analysis / Statistics and Machine Learning.
+## All my projects related to Data Analysis / Statistics and Machine Learning.
 
-ARIMA TimeSeries Model Prediction on Novel-COVID-19 in Portugal
+**ARIMA** TimeSeries Model Prediction on Novel-COVID-19 in Portugal
 
-BasketBall Throws throughout time: Descriptive analysis using NUMPY, PANDAS and SEABORN
+BasketBall Throws throughout time: Descriptive analysis using **NUMPY, PANDAS and SEABORN**
 
-Titanic Machine Learning Project: Classification Algorithm
+Titanic Machine Learning Project: **Classification Algorithm**
 
-World Trends Dataset: Descriptive analysis using the main packages from python (NUMPY, PANDAS MATPLOTLIB)
+World Trends Dataset: Descriptive analysis using the main packages from python (**NUMPY, PANDAS MATPLOTLIB**)
 
-Iris Machine Learning Project: SVM Kernel = linear + Decision Trees + Logistic Regression
+Iris Machine Learning Project:
+- *(i)* **SVM Kernel = linear**
+- *(ii)* **Decision Trees**
+- *(iii)* **Logistic Regression**
 
-Finances Analysis: Data Analysis and Feature Engineering with lists using loops.
+Finances Analysis: Data Analysis and **Feature Engineering** with lists using loops.
 
 Area Find Coordinates: Create a method to find the area of a damaged component in a PCB using Shapely.Geometry Package
 
-Pokemon stats data analysis: Drescriptive statistics on Pokemon Dataset regarding Speed, Atack, Defense, Sp. Defense, Sp. Attack
+Pokemon stats data analysis: **EDA Drescriptive statistics** on Pokemon Dataset regarding Speed, Atack, Defense, Sp. Defense, Sp. Attack
 
-WW2 Weather Machine Learning Project: Predict Min.Temp. using Linear Regression CVS + RMSE and Robust Scaler
+WW2 Weather Machine Learning Project: Predict Min.Temp
+- *(i)* Linear Regression CVS 
+- *(ii)* RMSE and Robust Scaler
 
-ICT Blocks Analysis: Descriptive analysis and statistics regarding test system blocking in manufacturing
+ICT Blocks Analysis: **EDA Descriptive analysis** and statistics regarding test system blocking in manufacturing
 
-Pedidos de Ajuda ICT: Descriptive analysis and statistics regarding test system aid in manufacturing
+Pedidos de Ajuda ICT: **EDA Descriptive analysis** and statistics regarding test system aid in manufacturing
 
-FishML Project: Linear Regression and Gradient Descent + Data Scaling and Normalization + Predicting new inputs
+FishML Project: 
+- *(i)* Data Scaling and Normalization 
+- *(ii)* Linear Regression
+- *(iii)* Gradient Descent 
+- *(iiii)* Predicting new inputs
 
-Wine Quality ML Project. Normality Test to all features + Removing outliers by Quartiles Function + Feature Selection by Chi2 and Anova + RandomForestClassifier (gridSearchCV) + AUC and LogLoss Metric + Pickle Library Saved Model
+Wine Quality ML Project. 
+- *(i)* Normality Test to all Features 
+- *(ii)* Outliers Removal Function by Quartile 25/75
+- *(iii)* Feature Selection by Chi2 and Anova HT 
+- *(iiii)* Random Forest Classifier (GridSearchCV)
+- *(iiiii)* AUC Curve and LogLoss Metric
+- *(iiiiii)* Saving model using Pickle package
