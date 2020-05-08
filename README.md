@@ -1,6 +1,6 @@
 # Data-Science
 ## All my projects related to Data Analysis / Statistics and Machine Learning.
-###### Order by Experience in Python DESC.
+###### Order by Experience in Python ASC.
 
 BasketBall Throws throughout time: Descriptive analysis using **NUMPY, PANDAS and SEABORN**
 
