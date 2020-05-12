@@ -30,16 +30,25 @@ WW2 Weather Machine Learning Project: Predict Min.Temp
 - *(i)* Linear Regression CVS 
 - *(ii)* RMSE and Robust Scaler
 
-FishML Project: 
+Fish Machine Learning Project: 
 - *(i)* Data Scaling and Normalization 
 - *(ii)* Linear Regression
 - *(iii)* Gradient Descent 
 - *(iiii)* Predicting new inputs
 
-Wine Quality ML Project. 
+Wine Quality Machine Learning Project. 
 - *(i)* Normality Test to all Features 
 - *(ii)* Outliers Removal Function by Quartile 25/75
 - *(iii)* Feature Selection by Chi2 and Anova HT 
 - *(iiii)* Random Forest Classifier (GridSearchCV)
 - *(iiiii)* AUC Curve and LogLoss Metric
 - *(iiiiii)* Saving model using Pickle package
+
+Rain in Australia Machine Learning Project. 
+- *(i)* Exploratory Data Analysis 
+- *(ii)* Deal with Null Values by relationship/heamap, removing, ffoward/backfoward, mode, median
+- *(iii)* Feature Selection by Anova H.Testing
+- *(iiii)* SVC Modeling
+- *(iiiii)* Training the data into Neural Networks using Keras API
+- *(iiiiii)* 2 Hidden Layers - No Dropout - Relu Activation and Binary CrossEntropy
+- *(iiiiiii)* Saving Keras Model
