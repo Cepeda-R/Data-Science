@@ -52,3 +52,9 @@ Rain in Australia Machine Learning Project.
 - *(iiiii)* Training the data into Neural Networks using Keras API
 - *(iiiiii)* 2 Hidden Layers - No Dropout - Relu Activation and Binary CrossEntropy
 - *(iiiiiii)* Saving Keras Model
+
+Voids Data Analysis - Checking Normality
+- *(i)* QQPlot
+- *(ii)* Histogram/Distplot
+- *(iii)* Shapiro Wilk Normality Test
+- *(iiii)* Kolmogorov-Smirnov Normality Test
